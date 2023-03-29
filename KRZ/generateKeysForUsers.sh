@@ -1,0 +1,1 @@
+openssl genrsa -out Users/$1/$1.key 2>> error1.txt

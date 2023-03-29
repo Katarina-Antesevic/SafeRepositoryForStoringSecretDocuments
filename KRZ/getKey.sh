@@ -1,0 +1,1 @@
+openssl pkeyutl -decrypt -in Users/$1/fajlovi/$2/key.txt -out Users/$1/fajlovi/$2/keyDec.txt -inkey Users/$1/$1.key

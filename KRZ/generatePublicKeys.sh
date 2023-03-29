@@ -1,0 +1,1 @@
+openssl rsa -in Users/$1/$1.key -out Users/$1/$1-public.key -pubout

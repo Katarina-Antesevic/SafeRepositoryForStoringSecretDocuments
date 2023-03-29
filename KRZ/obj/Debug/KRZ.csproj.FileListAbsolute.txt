@@ -1,0 +1,16 @@
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\bin\Debug\KRZ.exe.config
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\bin\Debug\KRZ.exe
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\bin\Debug\KRZ.pdb
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.csproj.AssemblyReference.cache
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.DigitalniSertifikatForma.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.PocetnaForma.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.SignUpForma.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.Properties.Resources.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.csproj.GenerateResource.cache
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.csproj.CoreCompileInputs.cache
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.exe
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.pdb
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.LogInForma.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.OdlukaForma.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.GlavnaForma.resources
+C:\Users\AcerAspireE5\Desktop\KRZ\KRZ\obj\Debug\KRZ.DodavanjaFajlaForm.resources

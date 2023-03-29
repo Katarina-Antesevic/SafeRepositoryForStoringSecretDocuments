@@ -1,0 +1,1 @@
+openssl pkeyutl -encrypt -in Users/$1/fajlovi/$2/keyTmp.txt -out Users/$1/fajlovi/$2/key.txt -inkey Users/$1/$1-public.key 2>error.txt -pubin

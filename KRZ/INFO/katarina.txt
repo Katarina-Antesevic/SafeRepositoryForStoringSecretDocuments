@@ -1,0 +1,4 @@
+katarina
+$5$12345678$RGUjO8.Ds.XWBLUvlJazKm3gmsG.WyEOLYP37BpVGyB
+SHA-256
+aes-128-cbc

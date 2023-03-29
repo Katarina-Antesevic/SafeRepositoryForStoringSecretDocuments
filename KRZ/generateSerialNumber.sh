@@ -1,0 +1,1 @@
+openssl x509 -in certs/$1 -serial -noout > serial.txt 2>error22.txt

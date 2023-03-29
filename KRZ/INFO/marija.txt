@@ -1,0 +1,4 @@
+marija
+$5$12345678$j5rDryRsfbrMboq9SdCM63SgFfjeRkRZIU32ym20RvD
+SHA-256
+aes-128-cbc

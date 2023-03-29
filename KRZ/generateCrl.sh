@@ -1,0 +1,1 @@
+openssl ca -gencrl -out crl/lista$1.pem -config openssl.cnf 2>error.txt

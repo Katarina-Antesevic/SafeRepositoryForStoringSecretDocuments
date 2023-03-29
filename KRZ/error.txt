@@ -1,0 +1,5 @@
+bad magic number
+9284:error:25078067:DSO support routines:win32_load:could not load the shared library:../openssl-1.1.1k/crypto/dso/dso_win32.c:108:filename(providers.dll)
+9284:error:25070067:DSO support routines:DSO_load:could not load the shared library:../openssl-1.1.1k/crypto/dso/dso_lib.c:162:
+9284:error:0E07506E:configuration file routines:module_load_dso:error loading dso:../openssl-1.1.1k/crypto/conf/conf_mod.c:224:module=providers, path=providers
+9284:error:0E076071:configuration file routines:module_run:unknown module name:../openssl-1.1.1k/crypto/conf/conf_mod.c:165:module=providers

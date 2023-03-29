@@ -1,0 +1,1 @@
+openssl dgst $1 -sign Users/$2/$2.key -out Users/$2/fajlovi/$3/$4/potpis$4.txt $5
